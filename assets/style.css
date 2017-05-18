@@ -1,0 +1,41 @@
+body {
+    background-color: #8b8b8b;
+}
+#outer {
+    width: 100vw;
+    height: 100vh;
+    background-color: #F2F2F2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    font-family: "Franklin Gothic Medium", sans-serif;
+    font-size: xx-large;
+    color: #3399FF;
+}
+#svg {
+    width: 450px;
+    height: 241.82
+}
+
+#content {
+   background-color: #c0c0c0;
+   border: 1px solid blue;
+   height: 241px;
+   width: 241px;
+}
+
+#slide {
+   border: 1px solid red;
+   background-color: #000;
+   color: #fff;
+   overflow: hidden;
+   height: 241px;
+   width: 241px;
+   display: none;
+}
+
+#_4,#_5,#_6,#_7,#R,#T,#Y,#U,#F,#G,#H,#J,#V,#B,#N,#M{
+   display: none;
+}
